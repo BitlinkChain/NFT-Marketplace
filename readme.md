@@ -19,22 +19,6 @@ The smart contract for the NFT marketplace should include the following essentia
 
 6. **Get NFT Details:** Provides a function to retrieve the details of a specific NFT, including metadata, owner, and current price.
 
-## Getting Started
-To get started with creating the NFT marketplace on Bitlink Chain, follow these steps:
-
-1. Clone this repository to your local development environment.
-
-2. Install the necessary dependencies using npm or yarn.
-
-3. Create and implement the smart contract using Solidity. Use the Bitlink Chain documentation and other relevant resources for guidance.
-
-4. Test the smart contract thoroughly to ensure its functionality and security.
-
-5. Deploy the smart contract to the Bitlink Chain testnet or mainnet.
-
-6. Integrate the smart contract with a user-friendly front-end to provide a seamless marketplace experience.
-
-7. Conduct thorough testing to ensure the smooth functioning of the marketplace.
 
 ## Reward
 As a token of appreciation for your valuable contributions to the development and growth of the NFT Marketplace on Bitlink Chain, we offer exciting rewards in BTLK tokens.
